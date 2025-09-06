@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🌱 Currently learning **Data Analytics, Machine Learning, and AI**  
 - 🐍 Building projects with **Python & Django**  
-- 📊 Interested in solving problems using **data & algorithms**  
+- 📊 Interested in solving problems using **data & algorithms**
 - 🤝 Open to **collaborations & internships**  
 - ⚡ Fun fact: I love learning new tech every day  
 
